@@ -13,5 +13,5 @@ const map = new Map({
       source : new OSM(),
     })
   ],
-  target : 'map'
+  target : 'git '
 });
